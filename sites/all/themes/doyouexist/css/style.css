@@ -8,7 +8,7 @@
 }
 
 .webform-component--who-are-you {
-  background-image:url("images/DisneyCheshireCat.jpg");
+  background-image:url("images/caterpillar.jpg");
   opacity: 1;
   filter: alpha(opacity=80); /* For IE8 and earlier */
   padding: 10px;
