@@ -1,0 +1,46 @@
+/**
+ * This file will be overwritten when the Bootstrap Framework source files
+ * are compiled using the LESS CSS pre-processor.
+ */
+.form-textarea-wrapper.resizable.textarea-processed.resizable-textarea {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.webform-component--who-are-you {
+  background-image:url("images/DisneyCheshireCat.jpg");
+  opacity: 1;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+  padding: 10px;
+  filter: grayscale(0.7);
+	-webkit-filter: grayscale(0.7);
+	-moz-filter: grayscale(0.7);
+	-o-filter: grayscale(0.7);
+	-ms-filter: grayscale(0.7);
+  border-radius: 5px;
+}
+
+.who-are-you label {
+  color: #ffffff;
+}
+
+textarea#edit-submitted-who-are-you {
+    opacity: 0.9;
+    color: #000000;
+}
+
+.btn-default{
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+.btn-default:hover {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.webform-confirmation{
+  text-align:center;
+  margin:15% auto;
+}
