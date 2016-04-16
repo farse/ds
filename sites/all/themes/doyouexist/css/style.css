@@ -44,3 +44,16 @@ textarea#edit-submitted-who-are-you {
   text-align:center;
   margin:15% auto;
 }
+
+a.twitter, a.fb {
+  text-indent: -99999px;
+  height: 25px;
+  width: 25px;
+  display: inline-block;
+}
+.twitter {
+  background-image: url("images/tw.png");
+}
+.fb {
+  background-image: url("images/fb.png");
+}
